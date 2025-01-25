@@ -1,5 +1,5 @@
 ![UIT](https://img.shields.io/badge/from-UIT%20VNUHCM-blue?style=for-the-badge&link=https%3A%2F%2Fwww.uit.edu.vn%2F)
-<h2 align="center"> Document Retrieval For Vietnamese News </h2>
+<h2 align="center"> IMAGE CAPTIONING IN VIETNAMESE CONTEXT </h2>
 
 <p align="center">
   <img src="https://en.uit.edu.vn/sites/vi/files/banner_en.png" alt="Alt text">
@@ -14,9 +14,10 @@
 -Member: Trần Hoài An - 21520553
 
 <h3>Hướng dẫn thực thi code:</h3>
-- Train và test: truy cập các file ipynb tương ứng với các mô hình.
+Train và test: truy cập các file ipynb tương ứng với các mô hình.
 
-- Demo:
+Demo:
+
 + Truy cập vào link sau: https://colab.research.google.com/drive/1R9suAi3P7iOm9mUkbM5QHfcExoS5a1tu
 + Thay đổi NGROK_KEY thành ngrok_key của bạn (dashboard.ngrok.com)
 + Thay đổi model_path thành thư mục lưu các mô hình trong drive của bạn (tạo lối tắt)
