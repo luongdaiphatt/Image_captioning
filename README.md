@@ -27,4 +27,4 @@ Link drive các mô hình: https://drive.google.com/drive/folders/1ZB_WPfBjxlTfo
  
 Link dataset: https://www.kaggle.com/datasets/vitngquang/uit-viic-v1-0-vietnamese-image-captioning
 
-<h3>Demo</h3>
+Link video Demo Youtube: https://www.youtube.com/watch?v=Mr6q0HJUThI
